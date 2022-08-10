@@ -1,6 +1,72 @@
+h1 {
+  font-size: 90px;
+  font-style: oblique;
+  color: white;
+  text-align: center;
+  background-color: pink;
+  margin: 10%;
+  margin-bottom: 10px;
+}
+
+img {
+  display: block;
+  width: 80%;
+  height: 180px; 
+  margin: 10%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+h2 {
+  font-size: 50px;
+  font-style: oblique;
+  color: blue;
+  text-align: center
+  
+}
+
 .profile {
   float: left;
-  background-color: tan; 
+  background-color: pink; 
+  border-color: black;
   padding: 3%;
   box-sizing: border-box;
+  width: 40%;
+  margin: 3%;
+  display: block;
+}
+
+.profile img {
+  display: block;
+  width: 50%; 
+  height: auto;
+  margin: auto;
+}
+
+.profile h2 {
+  text-align: center;
+  font-style: italic;
+  font-size: 35px;
+  color: black;
+  font-family: Georgia;
+}
+
+.about h2 {
+  text-align: left;
+  font-weight: bold;
+  font-size: 24px;
+  color: Green;
+}
+
+.profile ul {
+  font-weight: lighter;
+  font-size: 18px;
+  display: block; 
+  width: 80%;
+  margin: auto;
+}
+
+body {
+  background-color: lime;
+  font-family: sans-serif;
 }
