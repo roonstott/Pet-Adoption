@@ -3,7 +3,7 @@ h1 {
   font-style: oblique;
   color: white;
   text-align: center;
-  background-color: pink;
+  background-color: rgb(176, 116, 126);
   margin: 10%;
   margin-bottom: 10px;
 }
@@ -33,7 +33,6 @@ h2 {
   box-sizing: border-box;
   width: 40%;
   margin: 3%;
-  display: block;
 }
 
 .profile img {
@@ -67,6 +66,6 @@ h2 {
 }
 
 body {
-  background-color: lime;
+  background-color: rgb(59, 120, 59);
   font-family: sans-serif;
 }
